@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.expense-item{
+  /* display: flex; */
+  margin-top: 10px;
+  /* display: flex; */
+  /* justify-content: space-between; */
+  /* align-items: center; */
+  /* gap: 200px; */
+  background-color: rgb(81, 81, 82);
+  padding: 40px;
+  /* border-radius: 20px; */
+}
+.Date{
+  display: flex;
+  flex-direction: column;
+  font-size: 34px;
+  position: absolute;
+  left: 432px;
+  width: 5.5rem;
+  height: 5.5rem;
+  border: 1px solid #ececec;
+  background-color: #2a2a2a;
+  color: white;
+  border-radius: 12px;
+  align-items: center;
+  justify-content: center;
+}
+.expense-item__description{
+  display: flex;
+  justify-content: space-between; 
+
+}
+.expense-item__price{
+   width: 100px;
+   height: 60px;
+  color: rgb(247, 247, 247);
+  font-size: 24px; 
+  background-color: rgb(52, -25, 104);
+  border: 1px solid #fff;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+}
+.Date{
+  font-size: 20px;
+}
+h2{
+  color: #fff;
+  padding-left: 100px;
+  justify-content: center;
+  align-items: center;
+}
+.btn-trial{
+  margin-left: 100px;
+}
+
+
+
+
