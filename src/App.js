@@ -1,4 +1,3 @@
-import Expenseitem from "./components/Expenses/Expenseitem";
 import ExpenseTask from "./components/Expenses/ExpenseTask";
 import './components/Expenses/ExpenseApp.css'
 import NewExpense from "./components/NewExpense/NewExpense";

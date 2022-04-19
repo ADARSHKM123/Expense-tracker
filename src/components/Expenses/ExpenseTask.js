@@ -1,4 +1,3 @@
-import Expenseitem from "../Expenses/Expenseitem";
 import ExpenseFilter from "../ExpenseFilter/ExpenseFilter";
 import ExpenseList from "./ExpenseList";
 import ExpenseChart from "./ExpenseChart";
